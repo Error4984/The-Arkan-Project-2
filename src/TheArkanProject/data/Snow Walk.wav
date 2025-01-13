@@ -1,0 +1,18 @@
+import processing.sound.*;
+SoundFile snowWalk;
+
+void setup() {
+  size(640, 360);
+  background(255);
+    
+  // Load a soundfile from the /data folder of the sketch and play it back
+  snowWalk = new SoundFile(this, "Unconfirmed 609695.crdownload");
+  snowWalk.play();
+}      
+
+void draw() { if (keyPressed) {
+    if (key == 'b' || key == 'B') {
+      snowWalk.play();
+    }
+  }
+}
