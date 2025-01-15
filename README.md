@@ -1,4 +1,4 @@
-# The-Arkan-Project-2
+# The Arkan Project
 #### **PLACEHOLDER DESCRIPTION/SUMMARY OF GAME**
 # Development Planning and Management
 ## Team Roles
