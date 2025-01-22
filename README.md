@@ -9,6 +9,7 @@
 [Trello](https://trello.com/b/tLZYcFz4/my-trello-board)
 ## Pitch Document
 [Google Docs](https://docs.google.com/document/d/1qWscHGzO3AUQQVqgZV5dDUI4CwUEJxFeSY9bMrNzsHw/edit?usp=sharing)
+![Slideshow](https://github.com/Error4984/The-Arkan-Project-2/blob/main/docs/Pitch%20Slideshow.pptx)
 # Demo
 ## Start Screen
 ![image](https://github.com/user-attachments/assets/d068c933-3f23-4232-b62b-476c7d1d66fe)
