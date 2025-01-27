@@ -9,6 +9,18 @@
 ## Character Plan
 #### Our main character is approximently 26 years old, 6 foot 1, and has a deep connection to the military haveing been a loyal soldier in the marine corps since he was 18. He was on a recoverary mission to find any survivors of a recent military plane crash but his helicopter was attacked by some sort of huge vine and He fell into a canyon. His mission is now to survive and ideally kill all creatures like the one that took down his helicopter. This mission should not be to difficult however because he is a trained survival expert and is always combat ready, this makes him one of the best in his trade when paired with his IQ of 115.
 
+## Script
+
+Log #064 
+We finally got funding for our project on what the boss likes to call “The Arkan Project” which is designed to be a biological weapon that is to be used on the rebels, a biological weapon meaning a living breathing force to create mass destruction. Hopefully this war can end soon and we can stop losing people to the war. I don't know how buying out a company for 12 million dollars counts as a “company expense” but the boss says it's extremely important, so much so that it came out of his pockets. Too bad we had to wait this long for the government to green light our project. Well anyway I'll keep you guys updated Anderson out.
+
+Log #165
+Julius has not been acting like himself recently. He seems incredibly worried about something but he’s good enough at covering things up but no one seems to notice. I mean I get that the Arkan Project is a bit scary when you really think about it but is it really something we need to be afraid of?
+
+Log #206
+The day of the first test is upon us brothers today we know if we win or lose. Ok we’re firing it up (light static) oh my god it's moving. IT’S MOVING YES!!! (BANG BANG BANG) …maybe a little too much, definitely too much, SHUT THIS THING DOWN! Sir we can't, the tranquilizers aren't having an effect. Keep your guns trained on it and hopefully it doesn't break out.
+
+
 ## Game Goals
 Much of the game will have the player exploring. The goal of doing this is to acquire resources and find new locations. With the resources they can upgrade their weapons and other things and the new locations will be like levels. They will find entrances to “dungeons” that will have a variety of enemies and a boss in them. The overall goal is to complete all dungeons and kill the final boss in the final dungeon. 
 
