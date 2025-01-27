@@ -2,11 +2,17 @@
 #### **PLACEHOLDER DESCRIPTION/SUMMARY OF GAME**
 # Development Planning and Management
 ## Team Roles
+
 Henry: Main sound and audio designer 
+
 Owen: Generalst and helper 
+
 Eli: Script writer and lore developer
+
 James: Modeler and map designer 
+
 Paul: Main programmer and game logic developer
+
 #### **PLACEHOLDER DEVELOPER ROLES**
 ## Development Methodology Report
 # Pre-Production phase
