@@ -9,6 +9,14 @@
 ## Character Plan
 #### Our main character is approximently 26 years old, 6 foot 1, and has a deep connection to the military haveing been a loyal soldier in the marine corps since he was 18. He was on a recoverary mission to find any survivors of a recent military plane crash but his helicopter was attacked by some sort of huge vine and He fell into a canyon. His mission is now to survive and ideally kill all creatures like the one that took down his helicopter. This mission should not be to difficult however because he is a trained survival expert and is always combat ready, this makes him one of the best in his trade when paired with his IQ of 115.
 
+## Game Goals
+Much of the game will have the player exploring. The goal of doing this is to acquire resources and find new locations. With the resources they can upgrade their weapons and other things and the new locations will be like levels. They will find entrances to “dungeons” that will have a variety of enemies and a boss in them. The overall goal is to complete all dungeons and kill the final boss in the final dungeon. 
+
+## Engine Selection
+
+We decided to use Unity. This is because it is free and still very versatile. It gives us a physics engine to work with and many other features that will improve our game. For the mechanics, the player will be moving around with WASD and looking around with the mouse. You can sprint and jump to get over terrain. Other mechanics will be collecting resources and using them to upgrade items. You will also be able to explore and enter dungeons with enemies to kill and a boss.  
+
+
 ## Project Management Board
 [Trello](https://trello.com/b/tLZYcFz4/my-trello-board)
 ## Pitch Document
