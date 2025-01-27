@@ -9,7 +9,7 @@ Owen: Generalst and helper
 
 Eli: Script writer and lore developer
 
-James: Modeler and map designer 
+James: Modeler and map designer and animater
 
 Paul: Main programmer and game logic developer
 
