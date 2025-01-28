@@ -11,7 +11,7 @@ Eli: Script writer and lore developer
 
 James: Modeler and map designer and animater
 
-Paul: Main programmer and game logic developer
+[Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio): Main programmer and game logic developer
 
 # Pre-Production phase
 ## Development Methodology Report
