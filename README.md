@@ -41,7 +41,10 @@ We decided to use Unity. This is because it is free and still very versatile. It
 
 ## Audio Samples
 [Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
+
 [Start Screen](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanStart.wav)
+
+[Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Arkan_Battle.wav)
 
 ## Project Management Board
 [Trello](https://trello.com/b/tLZYcFz4/my-trello-board)
