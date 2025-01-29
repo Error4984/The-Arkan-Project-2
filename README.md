@@ -9,7 +9,7 @@ Owen: Generalst and helper
 
 Eli: Script writer and lore developer
 
-James: Modeler and map designer and animater
+James: Modeler, map designer, and animater
 
 [Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio): Main programmer and game logic developer
 
