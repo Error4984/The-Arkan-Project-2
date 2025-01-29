@@ -7,7 +7,7 @@
 
 [Owen](https://github.com/SergentTooth34/gamedev1a1porfolio): Generalist and helper 
 
-Eli: Script writer and lore developer
+[Eli](https://www.youtube.com/watch?v=Pb-HDNUSqrE&t=20s&ab_channel=10HoursChannel): Script writer and lore developer
 
 [James](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Modeler, map designer, and animater
 
