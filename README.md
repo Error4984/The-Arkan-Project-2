@@ -9,7 +9,7 @@
 
 Eli: Script writer and lore developer
 
-James: Modeler, map designer, and animater
+[James](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Modeler, map designer, and animater
 
 [Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio): Main programmer and game logic developer
 
