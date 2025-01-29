@@ -3,7 +3,7 @@
 # Development Planning and Management
 ## Team Roles
 
-Henry: Main sound and audio designer 
+[Henry](https://github.com/HenryBald/comprog1a3portfolio): Main sound and audio designer 
 
 [Owen](https://github.com/SergentTooth34/gamedev1a1porfolio): Generalist and helper 
 
