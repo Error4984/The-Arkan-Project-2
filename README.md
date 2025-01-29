@@ -5,7 +5,7 @@
 
 Henry: Main sound and audio designer 
 
-Owen: Generalst and helper 
+[Owen](https://github.com/SergentTooth34/gamedev1a1porfolio): Generalst and helper 
 
 Eli: Script writer and lore developer
 
