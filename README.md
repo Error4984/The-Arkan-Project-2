@@ -41,6 +41,9 @@ Much of the game will have the player exploring. The goal of doing this is to ac
 
 We decided to use Unity. This is because it is free and still very versatile. It gives us a physics engine to work with and many other features that will improve our game. For the mechanics, the player will be moving around with WASD and looking around with the mouse. You can sprint and jump to get over terrain. Other mechanics will be collecting resources and using them to upgrade items. You will also be able to explore and enter dungeons with enemies to kill and a boss.  
 
+## Flow Chart
+![](https://github.com/Error4984/The-Arkan-Project-2/blob/main/docs/FlowChart.drawio%20(1).png?raw=true)
+
 ## Audio Samples
 [Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
 
