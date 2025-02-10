@@ -68,3 +68,7 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 ![image](https://github.com/user-attachments/assets/b3b3686f-9a13-4d8d-9882-689a7a098f28)
 ## Company Factions/ Manufacturers
 ![image](https://github.com/user-attachments/assets/b23ed3ad-c9d5-4f36-857e-5f39db9830ff)
+
+
+## link to project repo
+[Other Repo](https://github.com/Masterpaul562/The-Arkan-Project)
