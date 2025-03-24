@@ -69,11 +69,17 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
  
  ## Audio Samples
 
-[Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
+[Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/ArkanBase.wav)
 
-[Start Screen](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanStart.wav)
+[Start Screen](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/ArkanStart.wav)
 
-[Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Arkan_Battle.wav)
+[Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Arkan_Battle.wav)
+
+[Battle Song (2nd Version)](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Arkan_Battle_ver2.wav)
+
+[Ambient Track](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Isolation.wav)
+
+[Suspenseful Track](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/OlympicParafencing.wav)
 
 ## Start Screen
 ![image](https://github.com/user-attachments/assets/d068c933-3f23-4232-b62b-476c7d1d66fe)
