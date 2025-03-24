@@ -49,14 +49,6 @@ We decided to use Unity. This is because it is free and still very versatile. It
 
 ## Flow Chart
 ![](https://github.com/Error4984/The-Arkan-Project-2/blob/main/docs/FlowChart.drawio%20(1).png?raw=true)
-</details>
-
-## Audio Samples
-[Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
-
-[Start Screen](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanStart.wav)
-
-[Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Arkan_Battle.wav)
 
 ## Project Management Board
 [Trello](https://trello.com/b/tLZYcFz4/my-trello-board)
@@ -64,8 +56,21 @@ We decided to use Unity. This is because it is free and still very versatile. It
 [Google Docs](https://docs.google.com/document/d/1qWscHGzO3AUQQVqgZV5dDUI4CwUEJxFeSY9bMrNzsHw/edit?usp=sharing)
 
 [Slideshow](https://github.com/Error4984/The-Arkan-Project-2/blob/main/docs/Pitch%20Slideshow.pptx)
+
 ## StoryBoard
+
 https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
+</details>
+
+## Audio Samples
+
+[Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
+
+[Start Screen](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanStart.wav)
+
+[Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Arkan_Battle.wav)
+
+
 # Demo
 ## Start Screen
 ![image](https://github.com/user-attachments/assets/d068c933-3f23-4232-b62b-476c7d1d66fe)
