@@ -1,6 +1,6 @@
 # The Arkan Project
 
-# Development Planning and Management
+
 <details>
   <summary> Members </summary>
 
