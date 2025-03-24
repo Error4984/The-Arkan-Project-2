@@ -88,6 +88,9 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 
 ![Screenshot 2025-03-03 at 8 10 48 AM](https://github.com/user-attachments/assets/fec0e123-8270-4217-8e39-18af62a88969)
 </details>
+## Start Screen (Base)
+![TheArkanProject-StartScreenBaseTJ](https://github.com/user-attachments/assets/367d96c0-fa35-46e4-875d-a70da5c8433f)
+
 
 
 ## link to project repo
