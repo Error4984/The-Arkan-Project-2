@@ -62,7 +62,12 @@ We decided to use Unity. This is because it is free and still very versatile. It
 https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 </details>
 
-## Audio Samples
+
+<details>
+  
+ <summary> Demo/Mockups </summary>
+ 
+ ## Audio Samples
 
 [Base Song 1](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/ArkanBase.wav)
 
@@ -70,8 +75,6 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 
 [Battle Song](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Arkan_Battle.wav)
 
-
-# Demo
 ## Start Screen
 ![image](https://github.com/user-attachments/assets/d068c933-3f23-4232-b62b-476c7d1d66fe)
 ## Gameplay Mockups
@@ -84,6 +87,7 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 ![Screenshot 2025-02-24 at 8 57 06 AM](https://github.com/user-attachments/assets/247b2686-27bf-498a-afc9-210a407a8a8b)
 
 ![Screenshot 2025-03-03 at 8 10 48 AM](https://github.com/user-attachments/assets/fec0e123-8270-4217-8e39-18af62a88969)
+</details>
 
 
 ## link to project repo
