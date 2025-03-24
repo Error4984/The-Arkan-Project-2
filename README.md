@@ -1,7 +1,10 @@
 # The Arkan Project
 
 # Development Planning and Management
-## Team Roles
+<details>
+  <summary> Members </summary>
+
+
 
 [Henry](https://github.com/HenryBald/comprog1a3portfolio): Main sound and audio designer 
 
@@ -14,6 +17,7 @@
 [Paul](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio): Main programmer and game logic developer
 
 [TJ](https://github.com/kimchi152/gamedev1a1portfolio): 2d artist, text animator 
+</details>
 
 # Pre-Production phase
 ## Development Methodology Report
