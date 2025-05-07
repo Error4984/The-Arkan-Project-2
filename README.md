@@ -101,5 +101,3 @@ https://www.canva.com/design/DAGdIEi_Pms/8yXUfXhdbqmoEH5vENMbmw/edit
 
 
 
-## link to project repo
-[Other Repo](https://github.com/Masterpaul562/The-Arkan-Project)
